@@ -17,7 +17,8 @@ https://www.kaggle.com/sherrytp/airline-delay-analysis
 
 •	***Airports**: includes the IATA airport code, full name, address, long. and lat. of airports
 •	***Flight data**: includes flight delay information with delay time, airline short code and date details
-•	***Cancellation data**: includes the code and cause of cancellation, original origin/destination, potential flight length,           month/day/year of flight among other potentially useful information
+•	***Cancellation data**: includes the code and cause of cancellation, original origin/destination, potential flight length,           
+                          month/day/year of flight among other potentially useful information
 
 ***Workflow was as follows**:
 
