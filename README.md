@@ -14,6 +14,7 @@ Our data focus was on flight delays and cancellations. Specifically, we were int
 https://www.aviationweather.gov/docs/metar/stations.tx
 https://www.kaggle.com/gauravmehta13/airline-flight-delays?select=flights.csv   
 https://www.kaggle.com/sherrytp/airline-delay-analysis
+https://en.wikipedia.org/wiki/List_of_airline_codes
 
 •	***Airports**: includes the IATA airport code, full name, address, long. and lat. of airports
 •	***Flight data**: includes flight delay information with delay time, airline short code and date details
